@@ -1,9 +1,10 @@
-<p align="center">
-    <img src="https://files.catbox.moe/7p1c7b.png">
-</p>
-<p align="center">
-<img src="https://txt.1001fonts.net/img/txt/dHRmLjI0LmNkOWFmZi5ZVzU1SUhCeWIyNXZkVzV6SUNzcklIVnViR0ZpWld4bFpBLjA/droid-sans-mono.regular.webp">
-</p>
-<p align="center">
-<img src="https://txt.1001fonts.net/img/txt/dHRmLjI0Ljg4ZWVmZi5ZV3gzWVhseklHTXJhQ0JtY21sbGJtUnNlU3dnYm1WMlpYSWdhWGRqSURvei4w/droid-sans-mono.regular.webp">
-</p>
+<div align="center">
+ 
+![](https://komarev.com/ghpvc/?username=PONYPNG&color=d39a89&base=1500&label=Ribbons+Tied)
+<div align="center">
+<div align="center">
+
+[rentry](https://sevhaine.straw.page/)ㅤ᯽ㅤ[prns](https://pronouns.cc/@nakano)󠀠󠀠󠀠󠀠ㅤ᯽ㅤ[ata](https://nakano.atabook.org/)
+<br>
+<img src="https://files.catbox.moe/u9pjb3.png" width="250" height="380">
+
